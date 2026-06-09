@@ -30,6 +30,7 @@
 | `sekad` | creuser / enquêter | réfléchir (`seka`) + solide/profondeur (`d`) |
 | `foha` | adorer / prier | bien spirituel (`foh`) + action (`a`) |
 | `feray` | remercier | joie (`fera`) + communication (`y`) |
+| `pohwxod` | fumer | faire (`po`) + fumée (`hwxod`) | faire de l'air mou chaud et sombre |
 
 #### POSSESSION - verbe avoir
 
@@ -324,6 +325,8 @@ Relation externe, direction dans le monde.
 | `lubemio` | Handicapé moteur | pronom vivant (`lu`) + mal incarné (`bem`) + relation/echange (`i`) + monde (`o`) | Le vivant qui a une contrainte d'interaction avec le monde physique |
 | `lubemiu` | Autiste/Neuroatypique (social)| pronom vivant (`lu`) + mal incarné (`bem`) + relation/echange (`i`) + vivant (`u`) | Le vivant qui a une contrainte d'interaction ou d'échange social |
 
+---
+
 ### Objets et Matières
 
 | Ynao | Traduction | Construction | Description littérale |
@@ -333,9 +336,47 @@ Relation externe, direction dans le monde.
 | `dox` | Arme contendante | lourd/solide (`d`) + monde (`o`) + violence (`x`) | L'objet lourd violent |
 | `djohx` | Balle / Projectile | vitesse (`j`) + monde (`o`) + air (`h`) + violence (`x`) | L'objet solide qui vole avec violence |
 | `jiohx` | flèche | solide (`d`) + vitesse (`j`) + ligne (`i`) + monde (`o`) + air (`h`) + violence (`x`) | L'objet en ligne qui vole avec violence |
-| `hux` | Fumer / Bédo | air (`h`) + vivant (`u`) + chaleur/feu (`x`) | La substance vivante qui brûle et s'élève |
 | `uimvody` | Trace de pas / Empreinte au sol | pied (`uimvod`) + communication/signe (`y`) | Le signe ou message laissé par le pied sur la terre |
 | `qibixo` | Incision / Découpe matérialisée | découper (`qibix`) + monde/objet (`o`) | La manifestation matérielle de l'action de découper |
 | `wtaxih` | gaz | liquide (`w`) + transforme (`t`)+ *voyelle de liaison* (`a`) + chaud (`x`) *voyelle de liaison* (`i`) + air (`h`)| liquide qui se transforme en air chaud |
+| `hwod` | Brouillard | air/abstrait (`h`) + fluide/mou (`w`) + sombre (`od`) | L'air mou sombre |
+| `hwxod` | Fumée | air/abstrait (`h`) + fluide/mou (`w`) + chaud (`x`) + sombre (`od`) | L'air mou chaud et sombre |
 
+---
+
+### Animaux
+
+| Ynao | Traduction | Construction | Description littérale |
+| --- | --- | --- | --- |
+| `uo` | animal | vivant (`u`) + exterieur (`o`) | Un vivant à l'extérieur |
+| **Mammifères** | | | |
+| `uoue` | mammifère | vivant (`u`) + exterieur (`o`) + vivant (`u`) + intérieur (`e`) | Un vivant à l'extérieur qui donne la vie à l'intérieur |
+| *Félins* | | | |
+| `uojig` | félin | vivant (`u`) + exterieur (`o`) + excité (`j`) + *voyelle de liaison* (`i`) + tranquille (`g`) | Un vivant à l'extérieur excité mais aussi calme |
+| `uojigin` | chat | félin (`uojig`) + *voyelle de liaison* (`i`) + proximité (`n`)| Le félin de proximité |
+| `uojigix` | lion | félin (`uojig`) + *voyelle de liaison* (`i`) + violence/puissance (`x`) | Le félin puissant |
+| `uojigixi` | tigre | félin puissant (`uojigix`) + trait (`i`) | Le félin puissant avec des rayures |
+| *Canidés* | | | |
+| `uocin` | canidé | vivant (`u`) + exterieur (`o`) + pluralité (`c`) + *voyelle de liaison* (`i`) + proximité (`n`) | Un vivant à l'extérieur de meute et de proximité |
+| `uociniq` | chien | canidé (`uocin`) + *voyelle de liaison* (`i`) + fusion/amour (`q`) | Le canidé de fusion et de fidélité |
+| `uocinix` | loup | canidé (`uocin`) + *voyelle de liaison* (`i`) + violence/puissance (`x`) | Le canidé puissant et prédateurs |
+| `uocine` | renard | canidé (`uocin`) + cognition (`e`) | Le canidé qui reflechi |
+| *Primates* | | | |
+| `uouimo` | primate | vivant (`u`) + exterieur (`o`) + main (`uimo`) | Un vivant à l'extérieur avec des mains |
+| `uouimoe` | chimpanzé | primate (`uouimo`) + cognition/esprit (`e`) | Le primate qui réfléchi |
+| `uouimod` | gorille | primate (`uouimo`) + solide (`d`) | Le primate costaud |
+| *Cétacés* | | | |
+| `uouew` | cétacé | mammifère (`uoue`) + fluide/eau (`w`) | Mammifère vivant dans l'eau |
+| `uouewig` | baleine | cétacé (`uouew`) + *voyelle de liaison* (`i`) + tranquille (`g`) | Le cétacé tranquille |
+| `uouewij` | dauphin | cétacé (`uouew`) + *voyelle de liaison* (`i`) + excité/joueur (`j`) | Le cétacé joueur |
+| **Ovipares** | | | |
+| `uouo` | ovipare | vivant (`u`) + exterieur (`o`) + vivant (`u`) +  exterieur/rond (`o`) | Un vivant à l'extérieur qui donne la vie dans un rond à l'extérieur |
+| *Reptiles* | | | |
+| `uouod` | reptile | ovipare (`uouo`) + terre (`d`) | ovipare de terre |
+| *Oiseaux* | | | |
+| `uouoh` | oiseau | ovipare (`uouo`) + air (`h`) | ovipare des airs |
+| *Poissons* | | | |
+| `uouow` | oiseau | ovipare (`uouo`) + eau (`w`) | ovipare des eaux |
+| **Insectes** | | | |
+| `uok` | insecte | vivant (`u`) + exterieur (`o`) + limité (`k`) | Un vivant à l'extérieur coupé en segment |
 ---
