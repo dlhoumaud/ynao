@@ -203,7 +203,63 @@ Relation externe, direction dans le monde.
 | `foas` | mieux (impersonnel) | positivité (`f`) + monde (`o`) + action (`a`) + structure/artificel (`s`) |
 | `boas` | moindre/moins (impersonnel) | négativité (`b`) + monde (`o`) + action (`a`) + structure/artificel (`s`) |
 
-### Salutation
+### CHIFFRES et NOMBRES
+
+| Ynao | Traduction | Construction |
+| --- | --- | --- |
+| `kio` | 0/zéro | limite (`k`) + segment (`i`) + rond (`o`) |
+| `kia` | 1/un | limite (`k`) + segment (`i`) + *1er lettre de l'alphabet* (`a`) |
+| `kib` | 2/deux | limite (`k`) + segment (`i`) + *2eme lettre de l'alphabet* (`b`) |
+| `kic` | 3/trois | limite (`k`) + segment (`i`) + *3eme lettre de l'alphabet* (`c`) |
+| `kid` | 4/quatre | limite (`k`) + segment (`i`) + *4eme lettre de l'alphabet* (`d`) |
+| `kie` | 5/cinq | limite (`k`) + segment (`i`) + *5eme lettre de l'alphabet* (`e`) |
+| `kif` | 6/six | limite (`k`) + segment (`i`) + *6eme lettre de l'alphabet* (`f`) |
+| `kig` | 7/sept | limite (`k`) + segment (`i`) + *7eme lettre de l'alphabet* (`g`) |
+| `kih` | 8/huit | limite (`k`) + segment (`i`) + *8eme lettre de l'alphabet* (`h`) |
+| `ki` | 9/neuf | limite (`k`) + segment (`i`) + *9eme lettre de l'alphabet fusionné et muette* (`i`) |
+| `kij` | 10/dix | limite (`k`) + segment (`i`) + *10eme lettre de l'alphabet* (`j`) |
+| `kija` | 11/onze | dix (`kij`) + *1er lettre de l'alphabet* (`a`) |
+| `kijeb` | 12/douze | dix (`kij`) + *voyelle de liaison* (`e`) + *2eme lettre de l'alphabet* (`b`) |
+| `kijec` | 13/treize | dix (`kij`) + *voyelle de liaison* (`e`) + *3eme lettre de l'alphabet* (`c`) |
+| `kijed` | 14/quatorze | dix (`kij`) + *voyelle de liaison* (`e`) + *4eme lettre de l'alphabet* (`d`) |
+| `kije` | 15/quinze | dix (`kij`) + *5eme lettre de l'alphabet* (`e`) |
+| `kijef` | 16/seize | dix (`kij`) + *voyelle de liaison* (`e`) + *6eme lettre de l'alphabet* (`f`) |
+| `kijeg` | 17/dix-sept | dix (`kij`) + *voyelle de liaison* (`e`) + *7eme lettre de l'alphabet* (`g`) |
+| `kijeh` | 18/dix-huit | dix (`kij`) + *voyelle de liaison* (`e`) + *8eme lettre de l'alphabet* (`h`) |
+| `kiji` | 19/dix-neuf | dix (`kij`) + *9eme lettre de l'alphabet* (`i`) |
+| `bekij` | 20/vingt | *2eme lettre de l'alphabet* (`b`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `cekij` | 30/trente | *3eme lettre de l'alphabet* (`c`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `dekij` | 40/quarante | *4eme lettre de l'alphabet* (`d`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `ekij` | 50/cinquante | *5eme lettre de l'alphabet* (`e`) + dix (`kij`) |
+| `fekij` | 60/soixante | *6eme lettre de l'alphabet* (`f`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `gekij` | 70/soixante-dix | *7eme lettre de l'alphabet* (`g`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `hekij` | 80/quatre-vingt | *8eme lettre de l'alphabet* (`h`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `ikij` | 90/quatre-vingt-dix | *9eme lettre de l'alphabet* (`i`) + dix (`kij`) |
+| `kijo` | 100/cent | + dix (`kij`) + rond (`o`) |
+| `bekijo` | 200/deux-cent | *2eme lettre de l'alphabet* (`b`) + *voyelle de liaison* (`e`) + cent (`kijo`) |
+| `kib kijo` | 200/deux-cent | deux (`kib`), cent (`kijo`) |
+| `cekijo` | 300/trois-cent | *3eme lettre de l'alphabet* (`c`) + *voyelle de liaison* (`e`) + cent (`kijo`) |
+| `kic kijo` | 300/trois-cent | trois (`kic`), cent (`kijo`) |
+| `dekijo` | 400/quatre-cent | *4eme lettre de l'alphabet* (`d`) + *voyelle de liaison* (`e`) + cent (`kijo`) |
+| `kid kijo` | 400/quatre-cent | quatre (`kid`), cent (`kijo`) |
+| `ekijo` | 500/cinq-cent | *5eme lettre de l'alphabet* (`e`) + cent (`kijo`) |
+| `kie kijo` | 500/cinq-cent | cinq (`kie`), cent (`kijo`) |
+| `ikijo` | 900/neuf-cent | *9eme lettre de l'alphabet* (`i`) + cent (`kijo`) |
+| `ki kijo` | 900/neuf-cent | neuf (`ki`), cent (`kijo`) |
+| `jekijo` | 1000/mille | *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`e`)  + cent (`kijo`) |
+| `bejekijo` | 2000/deux mille | *2eme lettre de l'alphabet* (`b`) + *voyelle de liaison* (`e`) mille (`jekijo`) |
+| `kib jekijo` | 2000/deux mille | deux (`kib`), mille (`jekijo`) |
+| `cejekijo` | 3000/deux mille | *3eme lettre de l'alphabet* (`c`) + *voyelle de liaison* (`e`) mille (`jekijo`) |
+| `kic jekijo` | 3000/deux mille | trois (`kic`), mille (`jekijo`) |
+| `kij jekijo` | 10000/dix mille | dix (`kij`), mille (`jekijo`) |
+| `bekij jekijo` | 20000/vingt mille | vingt (`bekij`), mille (`jekijo`) |
+| `kijo jekijo` | 100000/cent mille | cent (`kijo`), mille (`jekijo`) |
+| `bekijo jekijo` | 200000/deux cent mille | deux cent (`bekijo`), mille (`jekijo`) |
+| `jejakijo` | 1000000/un million | *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`e`) + *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`a`) + cent (`kijo`) |
+| `jejajikijo` | 1000000000/un milliard | *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`e`) + *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`a`) + *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`i`) + cent (`kijo`) |
+
+
+### SALUTATION
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |
@@ -211,7 +267,7 @@ Relation externe, direction dans le monde.
 | `yfod` | Bonsoir | communication (`y`) + positivité (`f`) + monde (`o`) + sombre (`d`) | J'émets une communication positive vers le monde extérieur obscur |
 | `kyfo` | Bonjour / Salutation | limite (`k`) + communication (`y`) + positivité (`f`) + monde (`o`) | Je termine une communication positive vers le monde extérieur |
 
-### Déplacement
+### DÉPLACEMENT
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |
@@ -222,7 +278,7 @@ Relation externe, direction dans le monde.
 | `voico` | Vélo | bouger (`vo`) + tige (`i`) + roues (`co`) | Objet qui bouge avec une tige et des roues |
 | `voeco` | Voiture | bouger (`vo`) + rectangle (`e`) + roues (`co`) | Objet rectangulaire qui bouge avec des roues |
 
-### Outil / Interaction
+### OUTILS / INTERACTIONS
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |
@@ -233,17 +289,28 @@ Relation externe, direction dans le monde.
 | `sroi` | Règle (outil) | savoir (`sro`) + tige (`i`) | Tige du savoir pour mesurer |
 | `podo` | Roue / Engrenage | créer (`po`) + solide (`d`) + rond (`o`) | Objet rond solide qui créé le mouvement |
 
-### Structure / Contenant
+### STRUCTURE / CONTENANT
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |
 | `poe` | Bâtiment / Maison | créer (`po`) + rectangle/boîte (`e`) | Espace créé pour contenir |
-| `tepae` | École / Bureau | collaborer (`tepa`) + rectangle/boîte (`e`) | Lieu de collaboration et de structuration |
 | `posu` | Pot / Récipient | créer (`po`) + structure (`s`) + cuve (`u`) | Conteneur structuré pour retenir |
 | `voed` | Porte | aller (`vo`) + interieur/rectangle *contraction* (`e`) + solide (`d`) | Passage entre intérieur et extérieur |
 | `suo` | Le monde | structure (`s`) + vivant (`u`) + ouvert/monde (`o`) | L'ensemble vivant et structuré |
 
-### Son
+### LIEUX
+
+| Ynao | Traduction | Construction | Description littérale |
+| --- | --- | --- | --- |
+| `tepae` | École / Bureau | collaborer (`tepa`) + rectangle/boîte (`e`) | Lieu de collaboration et de structuration |
+| `fohsuo` | Paradis | bien spirituel (`foh`) + le monde (`suo`) | Le monde structuré par le bien spirituel |
+| `bohsuo` | L'enfer | mal spirituel (`boh`) + le monde (`suo`) | Le monde structuré par le mal spirituel |
+| `lioxsuo` | Environement hostile | bruit menaçant (`liox`) + le monde (`suo`) | Le monde de la violence sonore |
+| `poeu` | Maison | Batiment (`poe`) + vivant (`u`) | le batiement où l'on vit |
+| `poeub` | Appartement | Batiment (`poe`) + vivant (`u`) + petit (`b`) | le petit endroit où l'on vit |
+| `poeboas` | Taudis | Batiment (`poe`) + mal impersonnel (`boas`) | Bâtiment où le monde se dégrade |
+
+### SONS
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |
@@ -260,7 +327,7 @@ Relation externe, direction dans le monde.
 | `vuaxa` | Rugissement | variation (`v`) + émotion/vivant (`u`) + action (`a`) + puissance (`x`) + action (`a`) | Cri de puissance absolue |
 | `vuaego` | Ronronnement | variation (`v`) + émotion/vivant (`u`) + interieur (`e`) + action (`a`) + calme (`g`) + rond (`o`) | Son intérieur, doux et continu |
 
-### Perception visuelle
+### PERCEPTION VISUELLE
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |
@@ -271,7 +338,7 @@ Relation externe, direction dans le monde.
 | `ohajix` | Brillant | monde (`o`) + clair (`h`) + jaune (`x`) + *voyelle de liaison* (`i`) + excitant (`j`) | Lumière éclatante et intense |
 
 
-### Abstrait
+### ABSTRAIT
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |
@@ -284,11 +351,12 @@ Relation externe, direction dans le monde.
 | `fohpobem` | Sacrilège / Rituel maléfique | rituel (`fohpo`) + mal entitaire (`bem`) | Une création spirituelle dédiée au mal |
 | `srok` | Dogme / Idéologie fermée | savoir (`sro`) + limite/fermeture (`k`) | Le savoir verrouillé, la connaissance limitée qui n'évolue plus |
 | `sokof` | Infini | Structure (`s`) + monde (`o`) + limite/critique (`k`) + monde (`o`) + large/positivité (`f`) | La structure du monde dont la limite est ouverte vers l'infini |
+| `sokofslof` | Éternité | infini (`sokof`) + futur lointain (`slof`) | Le futur lointain qui n'a pas de limite |
 | `hobi` | Vide | Abstrait/Souffle (`h`) + Monde (`o`) + Exclusion (`bi`) | Le monde abstrait dont la relation est exclue |
 
 ---
 
-### Vivant / Corporel
+### VIVANT / CORPOREL
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |
@@ -327,7 +395,7 @@ Relation externe, direction dans le monde.
 
 ---
 
-### Objets et Matières
+### OBJETS ET MATIÈRES
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |
@@ -338,13 +406,13 @@ Relation externe, direction dans le monde.
 | `jiohx` | flèche | solide (`d`) + vitesse (`j`) + ligne (`i`) + monde (`o`) + air (`h`) + violence (`x`) | L'objet en ligne qui vole avec violence |
 | `uimvody` | Trace de pas / Empreinte au sol | pied (`uimvod`) + communication/signe (`y`) | Le signe ou message laissé par le pied sur la terre |
 | `qibixo` | Incision / Découpe matérialisée | découper (`qibix`) + monde/objet (`o`) | La manifestation matérielle de l'action de découper |
-| `wtaxih` | gaz | liquide (`w`) + transforme (`t`)+ *voyelle de liaison* (`a`) + chaud (`x`) *voyelle de liaison* (`i`) + air (`h`)| liquide qui se transforme en air chaud |
+| `wtaxih` | gaz | liquide (`w`) + transforme (`t`)+ *voyelle de liaison* (`a`) + chaud (`x`) + *voyelle de liaison* (`i`) + air (`h`)| liquide qui se transforme en air chaud |
 | `hwod` | Brouillard | air/abstrait (`h`) + fluide/mou (`w`) + sombre (`od`) | L'air mou sombre |
 | `hwxod` | Fumée | air/abstrait (`h`) + fluide/mou (`w`) + chaud (`x`) + sombre (`od`) | L'air mou chaud et sombre |
 
 ---
 
-### Animaux
+### ANIMAUX
 
 | Ynao | Traduction | Construction | Description littérale |
 | --- | --- | --- | --- |

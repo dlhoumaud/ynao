@@ -39,8 +39,8 @@ Chaque graphème doit :
 | i | relation / échange | trait (ligne, tige) | /i/ | br**ille** |
 | o | monde / extérieur | rond (cercle, englobant) | /o/ | **o**range |
 | u | vivant / émotion | cuve (réceptacle, bol) | /u/ | bij**ou** |
-| y | communication | intersection | **/aj/** | **aïe** (diphtongue) / trav**ail** |
 | w | mou / liquide / fluide (l'eau) | bleu/cyan / vague | /wa/ | **oi**seau (glissant) |
+| y | communication | intersection | **/aj/** | **aïe** (diphtongue) / trav**ail** |
 
 ---
 
@@ -48,24 +48,24 @@ Chaque graphème doit :
 
 | lettre | fonction sémantique / état de la matière  | attribut (couleur) | phonétique | prononciation |
 | --- | --- | --- | --- | --- |
+| b | négativité (abaissement) | - | /b/ | **b**ateau |
+| c | pluralité / demi cercle | - | /ʃ/ | **ch**at |
+| d | solide / déterministe (la terre) | sombre/noir | /d/ | **d**essert (sec) |
+| f | positivité (élévation) | - | /f/ | **ph**are |
+| g | tranquillité | - | /g/ | **g**âteau |
+| h | froid / abstraction / souffle, air | neutre/clair/blanc | /h/ | souffle expiré : **h**op! / voyelle précédente aspiré : j**e** hurle → J**'**hurle |
+| j | excitation | orange | /ʒ/ | **j**oyeux |
+| k | fermeture / limite / critique / synthétique / angle | - | /k/ | **c**ascade |
+| l | perception / angle droit (L) | - | /l/ | **l**ivre |
 | m | soi / identité | - | /m/ | **m**aman |
 | n | interlocuteur / proximité | - | /n/ | **n**ature |
-| q | fusion / amour | rouge / magenta | /ɲ/ | vi**gn**e |
 | p | création | - | /p/ | **p**apa |
-| t | transformation | - | /t/ | **t**erre |
-| k | fermeture / limite / critique / synthétique / angle | - | /k/ | **c**ascade |
-| s | structure / artificiel | - | /s/ | **c**erise |
-| l | perception / angle droit (L) | - | /l/ | **l**ivre |
+| q | fusion / amour | rouge / magenta | /ɲ/ | vi**gn**e |
 | r | relation | rose / violet | /R/ | **r**enard |
+| s | structure / artificiel | - | /s/ | **c**erise |
+| t | transformation | - | /t/ | **t**erre |
 | v | variation / flore / végétal | vert | /v/ | **v**oiture |
-| c | pluralité / demi cercle | - | /ʃ/ | **ch**at |
-| f | positivité (élévation) | - | /f/ | **ph**are |
-| b | négativité (abaissement) | - | /b/ | **b**ateau |
-| g | tranquillité | - | /g/ | **g**âteau |
-| j | excitation | orange | /ʒ/ | **j**oyeux |
-| d | solide / déterministe (la terre) | sombre/noir | /d/ | **d**essert (sec) |
 | x | chaleur / violence / croisement / feu | jaune | /ɡz/ | **x**ylophone (tranchant) |
-| h | froid / abstraction / souffle, air | neutre/clair/blanc | /h/ | souffle expiré : **h**op! / voyelle précédente aspiré : j**e** hurle → J**'**hurle |
 
 ---
 
