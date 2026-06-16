@@ -258,7 +258,6 @@ Relation externe, direction dans le monde.
 | `jejakijo` | 1000000/un million | *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`e`) + *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`a`) + cent (`kijo`) |
 | `jejajikijo` | 1000000000/un milliard | *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`e`) + *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`a`) + *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`i`) + cent (`kijo`) |
 
-
 ### SALUTATION
 
 | Ynao | Traduction | Construction | Description littérale |

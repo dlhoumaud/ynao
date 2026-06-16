@@ -521,3 +521,78 @@ Cette règle garantit :
 * cohérence inter-locuteurs
 
 La phonotactique Ynao est donc **déterministe**.
+
+
+# 19. Chiffres et nombres
+
+## Énumération
+
+| Ynao | Traduction | Construction |
+| --- | --- | --- |
+| `kio` | 0/zéro | limite (`k`) + segment (`i`) + rond (`o`) |
+| `kia` | 1/un | limite (`k`) + segment (`i`) + *1er lettre de l'alphabet* (`a`) |
+| `kib` | 2/deux | limite (`k`) + segment (`i`) + *2eme lettre de l'alphabet* (`b`) |
+| `kic` | 3/trois | limite (`k`) + segment (`i`) + *3eme lettre de l'alphabet* (`c`) |
+| `kid` | 4/quatre | limite (`k`) + segment (`i`) + *4eme lettre de l'alphabet* (`d`) |
+| `kie` | 5/cinq | limite (`k`) + segment (`i`) + *5eme lettre de l'alphabet* (`e`) |
+| `kif` | 6/six | limite (`k`) + segment (`i`) + *6eme lettre de l'alphabet* (`f`) |
+| `kig` | 7/sept | limite (`k`) + segment (`i`) + *7eme lettre de l'alphabet* (`g`) |
+| `kih` | 8/huit | limite (`k`) + segment (`i`) + *8eme lettre de l'alphabet* (`h`) |
+| `ki` | 9/neuf | limite (`k`) + segment (`i`) + *9eme lettre de l'alphabet fusionné et muette* (`i`) |
+| `kij` | 10/dix | limite (`k`) + segment (`i`) + *10eme lettre de l'alphabet* (`j`) |
+| `kija` | 11/onze | dix (`kij`) + *1er lettre de l'alphabet* (`a`) |
+| `kijeb` | 12/douze | dix (`kij`) + *voyelle de liaison* (`e`) + *2eme lettre de l'alphabet* (`b`) |
+| `kijec` | 13/treize | dix (`kij`) + *voyelle de liaison* (`e`) + *3eme lettre de l'alphabet* (`c`) |
+| `kijed` | 14/quatorze | dix (`kij`) + *voyelle de liaison* (`e`) + *4eme lettre de l'alphabet* (`d`) |
+| `kije` | 15/quinze | dix (`kij`) + *5eme lettre de l'alphabet* (`e`) |
+| `kijef` | 16/seize | dix (`kij`) + *voyelle de liaison* (`e`) + *6eme lettre de l'alphabet* (`f`) |
+| `kijeg` | 17/dix-sept | dix (`kij`) + *voyelle de liaison* (`e`) + *7eme lettre de l'alphabet* (`g`) |
+| `kijeh` | 18/dix-huit | dix (`kij`) + *voyelle de liaison* (`e`) + *8eme lettre de l'alphabet* (`h`) |
+| `kiji` | 19/dix-neuf | dix (`kij`) + *9eme lettre de l'alphabet* (`i`) |
+| `bekij` | 20/vingt | *2eme lettre de l'alphabet* (`b`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `cekij` | 30/trente | *3eme lettre de l'alphabet* (`c`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `dekij` | 40/quarante | *4eme lettre de l'alphabet* (`d`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `ekij` | 50/cinquante | *5eme lettre de l'alphabet* (`e`) + dix (`kij`) |
+| `fekij` | 60/soixante | *6eme lettre de l'alphabet* (`f`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `gekij` | 70/soixante-dix | *7eme lettre de l'alphabet* (`g`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `hekij` | 80/quatre-vingt | *8eme lettre de l'alphabet* (`h`) + *voyelle de liaison* (`e`) + dix (`kij`) |
+| `ikij` | 90/quatre-vingt-dix | *9eme lettre de l'alphabet* (`i`) + dix (`kij`) |
+| `kijo` | 100/cent | + dix (`kij`) + rond (`o`) |
+| `bekijo` | 200/deux-cent | *2eme lettre de l'alphabet* (`b`) + *voyelle de liaison* (`e`) + cent (`kijo`) |
+| `kib kijo` | 200/deux-cent | deux (`kib`), cent (`kijo`) |
+| `cekijo` | 300/trois-cent | *3eme lettre de l'alphabet* (`c`) + *voyelle de liaison* (`e`) + cent (`kijo`) |
+| `kic kijo` | 300/trois-cent | trois (`kic`), cent (`kijo`) |
+| `dekijo` | 400/quatre-cent | *4eme lettre de l'alphabet* (`d`) + *voyelle de liaison* (`e`) + cent (`kijo`) |
+| `kid kijo` | 400/quatre-cent | quatre (`kid`), cent (`kijo`) |
+| `ekijo` | 500/cinq-cent | *5eme lettre de l'alphabet* (`e`) + cent (`kijo`) |
+| `kie kijo` | 500/cinq-cent | cinq (`kie`), cent (`kijo`) |
+| `ikijo` | 900/neuf-cent | *9eme lettre de l'alphabet* (`i`) + cent (`kijo`) |
+| `ki kijo` | 900/neuf-cent | neuf (`ki`), cent (`kijo`) |
+| `jekijo` | 1000/mille | *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`e`)  + cent (`kijo`) |
+| `bejekijo` | 2000/deux mille | *2eme lettre de l'alphabet* (`b`) + *voyelle de liaison* (`e`) mille (`jekijo`) |
+| `kib jekijo` | 2000/deux mille | deux (`kib`), mille (`jekijo`) |
+| `cejekijo` | 3000/deux mille | *3eme lettre de l'alphabet* (`c`) + *voyelle de liaison* (`e`) mille (`jekijo`) |
+| `kic jekijo` | 3000/deux mille | trois (`kic`), mille (`jekijo`) |
+| `kij jekijo` | 10000/dix mille | dix (`kij`), mille (`jekijo`) |
+| `bekij jekijo` | 20000/vingt mille | vingt (`bekij`), mille (`jekijo`) |
+| `kijo jekijo` | 100000/cent mille | cent (`kijo`), mille (`jekijo`) |
+| `bekijo jekijo` | 200000/deux cent mille | deux cent (`bekijo`), mille (`jekijo`) |
+| `jejakijo` | 1000000/un million | *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`e`) + *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`a`) + cent (`kijo`) |
+| `jejajikijo` | 1000000000/un milliard | *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`e`) + *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`a`) + *10eme lettre de l'alphahet* (`j`) + *voyelle de liaison* (`i`) + cent (`kijo`) |
+
+### Ordinal
+
+Postfixation d'un chiffre ou un nombre avec le graphème (`r`) de `relation`, c'est indiquer sa position relative dans la structure. On utilise la voyelle de liaison final (`i`) en cas de collision avec une consonne final.
+
+| Chiffres/nombres | relative | Traduction |
+| --- | --- | --- |
+| `kia` | `kia`**`r`** | premier |
+| `kib` | `kib`**`ir`** | deuxième |
+| `kic` | `kic`**`ir`** | troisième |
+| `kid` | `kid`**`ir`** | quatrième |
+| `kie` | `kie`**`r`**  | cinquième |
+| `kif` | `kif`**`ir`** | sixième |
+| `kig` | `kig`**`ir`** | septième |
+| `kih` | `kih`**`ir`** | huitième |
+| `ki` | `ki`**`r`** | neuvième |
+| `kij` | `kij`**`ir`** | dixième |
